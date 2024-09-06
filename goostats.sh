@@ -5,3 +5,4 @@ echo "working with file: ${fname}"
 echo "Welcome to Nell's stats script"
 
 # Compute the min/max/range of values in a file.
+an ill-considered changes
